@@ -73,6 +73,7 @@
                 left-padding:0px;
                 border-radius: 80px;
                 margin: 40px;
+                padding-left:0px;
                 margin-top: 10px;
                 box-shadow: 0px 8px 8px -8px;
             }
