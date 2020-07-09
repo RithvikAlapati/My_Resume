@@ -229,7 +229,7 @@
                         <h3 style="margin-bottom: 0">EDUCATION</h3>
                         <hr color="#2EBCAE">
 
-                        <table border=4 width=750>
+                       
                             <tr>
                                 <th><b>Qualificaion</b></th>
 
