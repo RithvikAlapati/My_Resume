@@ -70,11 +70,11 @@
 
                 height: 170px;
                 width: 155px;
-
+                left-padding:0px;
                 border-radius: 80px;
                 margin: 40px;
                 margin-top: 10px;
-                box-shadow: 0px 8px 8px -8px
+                box-shadow: 0px 8px 8px -8px;
             }
 
             .contacts {
