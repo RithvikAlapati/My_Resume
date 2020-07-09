@@ -6,7 +6,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width initial-scale=1" />
         <title>Rithvik's Resume</title>
-        <link rel="icon" type="favicon" href="https://image.flaticon.com/icons/svg/3064/3064573.svg" !important>
+        
         <style type="text/css">
             body {
                 font-family: Arial;
