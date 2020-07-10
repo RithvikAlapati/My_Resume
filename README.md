@@ -138,7 +138,7 @@
                     <img src="https://raw.githubusercontent.com/Ayush616/Web-tech/master/rithvik.png" width="222"
                         class="dpimg">
 
-                    <div class="contacts"><em>Contacts-</em>
+                    <div class="contacts">
                         <a href="mailto: alapati_rithvik@srmap.edu.in">
                             <img src="https://image.flaticon.com/icons/svg/893/893257.svg" width="20px"
                                 class="contact"></a>
