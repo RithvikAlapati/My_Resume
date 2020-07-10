@@ -229,36 +229,7 @@
                         <h3 style="margin-bottom: 0">EDUCATION</h3>
                         <hr color="#2EBCAE">
 
-                       
-                            <tr>
-                                <th><b>Qualificaion</b></th>
-
-                                <th>School/Collage</th>
-                                <th>Year of passing</th>
-                                <th>Marks</th>
-                            </tr>
-                            <tr>
-                                <th><b>BTECH</b></th>
-
-                                <th>SRM UNIVERSITY</th>
-                                <th>2022</th>
-                                <th>86%</th>
-                            </tr>
-                            <tr>
-                                <th><b>INTERMEDIATE</b></th>
-
-                                <th>narayana Institutions</th>
-                                <th>2018</th>
-                                <th>90%</th>
-                            </tr>
-                            <tr>
-                                <th><b>10th</b></th>
-
-                                <th>Aditya</th>
-                                <th>2016</th>
-                                <th>97%</th>
-                            </tr>
-                        </table>
+                       Completed my 10th From Aditya IIT concept school with 9.7GPA.I Passed my intermediate with 90% from Narayana IIT Junior College.Presently persueing my Btech from SRM Amaravathi whith current GPA of 8.7.
 
 
                     </div>
